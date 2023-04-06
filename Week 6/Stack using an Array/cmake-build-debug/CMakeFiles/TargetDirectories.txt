@@ -1,0 +1,3 @@
+D:/UOM/2nd Semester/Algoryhtms and data structures/In class labs/Week 6/Stack using an Array/cmake-build-debug/CMakeFiles/Stack_using_an_Array.dir
+D:/UOM/2nd Semester/Algoryhtms and data structures/In class labs/Week 6/Stack using an Array/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/UOM/2nd Semester/Algoryhtms and data structures/In class labs/Week 6/Stack using an Array/cmake-build-debug/CMakeFiles/rebuild_cache.dir
