@@ -1,0 +1,3 @@
+D:/UOM/2nd Semester/Algoryhtms and data structures/In class labs/week 4/C++ Project file/cmake-build-debug/CMakeFiles/C___Project_file.dir
+D:/UOM/2nd Semester/Algoryhtms and data structures/In class labs/week 4/C++ Project file/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/UOM/2nd Semester/Algoryhtms and data structures/In class labs/week 4/C++ Project file/cmake-build-debug/CMakeFiles/rebuild_cache.dir
