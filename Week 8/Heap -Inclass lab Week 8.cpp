@@ -24,10 +24,10 @@ void heapSort(int arr[], int n){
     for (int i = (n-1)/2 ; i>=0; i--)
         heapify(arr,n, i);
 //Then does the sorting process
-//    for(int i=n-1;i>0;i--){
-//        swap(arr[i],arr[0]);
-//        heapify(arr,i,0);
-//    }
+    for(int i=n-1;i>0;i--){
+        swap(arr[i],arr[0]);
+        heapify(arr,i,0); // when calling heapify, array size being reduced by 1 in each iteration via i.
+    }
 }
 
 /* print contents of array */
