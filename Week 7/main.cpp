@@ -5,7 +5,7 @@ struct node {
   int key;
   struct node *left, *right;
 };
-// Finds and returns the minimum key(int type) value inside the provided tree.  (THIS FUNCTION IS EXPLICITLY IMPLEMENTED) Works only for Binary trees without duplicate keys.
+// Finds and returns the minimum key(int type) value inside the provided tree.  (THIS FUNCTION IS EXPLICITLY IMPLEMENTED) 
 int minFinder(struct node* root){
     if (root -> left == nullptr && root -> right == nullptr)
         return root -> key;
