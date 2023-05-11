@@ -57,6 +57,7 @@ struct LinkedList{
         for(int i=0;i<length;i++){
             if(temp->user_name==user_name){
                 cout<<"Password: "<<temp->password<<"\n";
+                break;
             }
             else{
                 temp = temp->link; 
