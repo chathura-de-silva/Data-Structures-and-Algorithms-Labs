@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Best_Location_Finder",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Best_Location_Finder::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Best_Location_Finder-Debug-7d32e21cdcf50f056895.json",
+					"name" : "Best_Location_Finder",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/UOM/2nd Semester/Algoryhtms and data structures/In class labs/Week 12/Overall Best Location Finder/cmake-build-debug",
+		"source" : "D:/UOM/2nd Semester/Algoryhtms and data structures/In class labs/Week 12/Overall Best Location Finder"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
