@@ -1,4 +1,4 @@
-# Install script for directory: D:/UOM/2nd Semester/Algoryhtms and data structures/In class labs/Week 12/Overall Best Location Finder
+# Install script for directory: D:/UOM/2nd Semester/Algoryhtms and data structures/In class labs/Git Repo/Data-structures-and-Algorithms-Labs/Week 12/Overall Best Location Finder
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/UOM/2nd Semester/Algoryhtms and data structures/In class labs/Week 12/Overall Best Location Finder/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/UOM/2nd Semester/Algoryhtms and data structures/In class labs/Git Repo/Data-structures-and-Algorithms-Labs/Week 12/Overall Best Location Finder/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

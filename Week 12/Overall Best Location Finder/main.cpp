@@ -81,6 +81,5 @@ int main()
     return 0;
 }
 
-//Below code calculates the required answer for question 4. Below functions are called inside dijkstra() function.
 
 
