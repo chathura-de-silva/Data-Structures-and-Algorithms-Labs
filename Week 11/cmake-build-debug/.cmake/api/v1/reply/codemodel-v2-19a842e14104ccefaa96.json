@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Week_11",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Week_11::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Week_11-Debug-b2032e14f26f22d758bb.json",
+					"name" : "Week_11",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/UOM/2nd Semester/Algoryhtms and data structures/In class labs/Git Repo/Data-structures-and-Algorithms-Labs/Week 11/cmake-build-debug",
+		"source" : "D:/UOM/2nd Semester/Algoryhtms and data structures/In class labs/Git Repo/Data-structures-and-Algorithms-Labs/Week 11"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
