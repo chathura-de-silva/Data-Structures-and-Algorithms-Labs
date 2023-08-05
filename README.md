@@ -2,5 +2,5 @@
 <img src="https://github.com/chathura7357/Data-structures-and-Algorithms-Labs/blob/main/repo_cover.jpg">
 </p>
 
-# Data-structures-and-Algorithms-Labs
+
 This includes all the source files of Labs given under Data structures and Algorithms module (2021 Batch-CSE-UOM)) excluding the first 2 labs.
