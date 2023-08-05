@@ -3,4 +3,4 @@
 </p>
 
 
-This includes all the source files of Labs given under Data structures and Algorithms module (2021 Batch-CSE-UOM)) excluding the first 2 labs.
+This includes all the source files of Labs given under Data structures and Algorithms module (2021 Batch-CSE-UOM)) excluding the first 3 labs.
